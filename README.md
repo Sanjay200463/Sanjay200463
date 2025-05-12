@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay200463&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay200463" /> </p>
 
-- 🔭 I’m currently working on **AI-Based Waste Classification and IoT-Enabled Smart Segregation System **
+- 🔭 I’m currently working on ** AI-Based Waste Classification and IoT-Enabled Smart Segregation System **
 
 - 🌱 I’m currently learning **Reactjs,Sql**
 
